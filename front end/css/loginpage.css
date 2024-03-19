@@ -1,0 +1,22 @@
+div{
+    color: aliceblue;
+    position: relative;
+    top:250px;
+    left:400px
+}
+h1{
+    color: yellowgreen;
+    text-align: center;
+    position: relative;
+    top: 240;
+    
+}
+p{
+    color: brown;
+    text-align: center;
+    position: relative;
+    top:250px;
+}
+html{
+    background-color: black;
+}
