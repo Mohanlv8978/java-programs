@@ -1,0 +1,21 @@
+div{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top:250px;
+    left:550px
+    
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: 240;
+    
+}
+p{
+    text-align: center;
+    position: relative;
+    top:250px;
+}
+html{
+    background-color: rgb(3, 243, 231);
+}

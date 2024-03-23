@@ -1,0 +1,50 @@
+body{
+    p{
+        color: gold;
+    }
+    position: fixed;
+    background-color: black;
+    color: aliceblue;
+}
+.box{
+    position:fixed;
+    left: 510px;
+    top: 300px;
+    text-align: center;
+    color: rgb(163, 39, 165);
+}
+.box1{
+    
+    position: relative;
+    left: 50px;
+   h1{
+    color: black;
+   } 
+a{
+    color: brown;
+}
+}
+.box2{ 
+    position: relative;
+    left: 50px;
+    a{
+        color: brown;
+    }
+}
+.box3{
+    position: relative;
+    bottom: 650px;
+    left: 1100px;
+    a{
+        color: brown;
+    }
+}
+.box4{
+    position: relative;
+    bottom: 650px;
+    left: 1100px;
+    a{
+        color: brown;
+    }
+
+}

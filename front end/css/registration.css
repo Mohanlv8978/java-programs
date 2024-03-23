@@ -1,0 +1,31 @@
+h1
+{
+    text-align: center;
+    color: aliceblue;
+    
+}
+.n{
+    text-align: center;
+    font-size: 19px;
+    color: aliceblue;
+
+}
+.l{
+    
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+}
+.m
+{
+    color: aliceblue;
+    align-items: center;
+    position: fixed;
+  left: 40%;
+  top: 2%;
+ 
+}
+html{
+    background-color: rgb(40, 81, 47);
+    color: aliceblue;
+}
